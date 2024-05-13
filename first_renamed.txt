@@ -1,0 +1,9 @@
+I want this to go to commit 2
+changed by hassan
+this is changednow 
+
+dsff
+
+
+this is from master
+ master master
